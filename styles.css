@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	width:200px;
+	border: 5px solid black;
+	padding:10px;
+	border-radius:15px;
+	text-align:inline-block; 
+/* 	justify-content:space-between; */
+	background-color:#d3d3d3;
+	gap:10px;
+}
+.red{
+	  height: 50px;
+  width: 50px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
+.yellow{
+	 height: 50px;
+  width: 50px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: inline-block;
+}
+.green{
+	 height: 50px;
+  width: 50px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+}
